@@ -53,3 +53,4 @@ window-height = 60
 theme = "Paul Millr"
 shell-integration-features = sudo,ssh-terminfo, ssh-env, title
 window-colorspace = display-p3
+font-size = 14
