@@ -54,3 +54,5 @@ theme = "Paul Millr"
 shell-integration-features = sudo,ssh-terminfo, ssh-env, title
 window-colorspace = display-p3
 font-size = 14
+background-opacity = 0.95
+background-blur-radius = 20
