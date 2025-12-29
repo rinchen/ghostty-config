@@ -56,5 +56,4 @@ shell-integration-features = ssh-env
 background-opacity = 1.0
 #background-blur = 90
 macos-titlebar-style = tabs
-window-decoration = true
 window-colorspace = display-p3
