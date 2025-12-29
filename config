@@ -55,5 +55,5 @@ shell-integration-features = ssh-terminfo
 shell-integration-features = ssh-env
 background-opacity = 1.0
 #background-blur = 90
-macos-titlebar-style = tabs
+macos-titlebar-style = native
 window-colorspace = display-p3
