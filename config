@@ -19,3 +19,5 @@ font-feature = +liga
 font-feature = +dlig
 font-feature = +ss01
 font-feature = +ss04
+# Dims the terminal slightly when you click away to your browser
+unfocused-split-opacity = 0.7
